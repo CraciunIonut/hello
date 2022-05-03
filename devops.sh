@@ -1,4 +1,5 @@
 #!/bin/bash
+#functie grad1
 
 read x
 
